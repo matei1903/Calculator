@@ -1,0 +1,13 @@
+D:\visual basic projects\Laborator 2 part 2\bin\Debug\Laborator 2 part 2.exe.config
+D:\visual basic projects\Laborator 2 part 2\bin\Debug\Laborator 2 part 2.exe
+D:\visual basic projects\Laborator 2 part 2\bin\Debug\Laborator 2 part 2.pdb
+D:\visual basic projects\Laborator 2 part 2\bin\Debug\Laborator 2 part 2.xml
+D:\visual basic projects\Laborator 2 part 2\obj\Debug\Laborator 2 part 2.vbprojAssemblyReference.cache
+D:\visual basic projects\Laborator 2 part 2\obj\Debug\Laborator_2_part_2.Form1.resources
+D:\visual basic projects\Laborator 2 part 2\obj\Debug\Laborator_2_part_2.Resources.resources
+D:\visual basic projects\Laborator 2 part 2\obj\Debug\Laborator 2 part 2.vbproj.GenerateResource.cache
+D:\visual basic projects\Laborator 2 part 2\obj\Debug\Laborator 2 part 2.vbproj.CoreCompileInputs.cache
+D:\visual basic projects\Laborator 2 part 2\obj\Debug\Laborator 2 part 2.exe
+D:\visual basic projects\Laborator 2 part 2\obj\Debug\Laborator 2 part 2.xml
+D:\visual basic projects\Laborator 2 part 2\obj\Debug\Laborator 2 part 2.pdb
+D:\visual basic projects\Laborator 2 part 2\obj\Debug\Laborator_2_part_2.form2.resources
