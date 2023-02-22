@@ -1,3 +1,3 @@
 # Calculator
-Basic Calculator App
-A small project I made for my lab using VB.NET
+
+A small project(basic calculator) I made for my lab using VB.NET
